@@ -1,13 +1,15 @@
 <template>
-  <h1 class="text-3xl font-bold underline">Hello World</h1>
-  <button class="btn btn-primary">Hello</button>
+  <PaymentView></PaymentView>
 </template>
 
 <script>
+import PaymentView from './components/PaymentView.vue';
+
 export default {
   name: 'App',
   components: {
-  }
+    PaymentView,
+}
 }
 </script>
 
