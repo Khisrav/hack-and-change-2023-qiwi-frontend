@@ -33,7 +33,3 @@
 - Безбородова Виктория - [@vicitoriy](https://t.me/vicitoriy)
 
 - Ханниев Сулейман - [@Hannyyew19](https://t.me/Hannyyew19)
-
-
-
-
